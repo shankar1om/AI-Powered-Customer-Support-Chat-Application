@@ -11,11 +11,7 @@ frontend/build/
 backend/dist/
 backend/build/
 
-# Environment variables
-.env
-.env.*
-frontend/.env
-backend/.env
+# Environment variable
 
 # Logs
 npm-debug.log*
