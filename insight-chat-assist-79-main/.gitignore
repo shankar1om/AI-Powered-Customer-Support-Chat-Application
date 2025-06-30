@@ -12,10 +12,7 @@ backend/dist/
 backend/build/
 
 # Environment variables
-.env
-.env.*
-frontend/.env
-backend/.env
+
 
 # Logs
 npm-debug.log*
